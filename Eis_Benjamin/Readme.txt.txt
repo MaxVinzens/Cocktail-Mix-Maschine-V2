@@ -1,1 +1,0 @@
-Alle Teile der Sektion Eis wurden mit der freien Software FreeCAD erstellt.
