@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Content id="Confmenue" height="480" width="800" xmlns="http://www.br-automation.com/iat2015/contentDefinition/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Widgets>
+    <Widget xsi:type="widgets.brease.Image" id="Image1" top="0" left="0" width="800" height="480" zIndex="0" image="Media/Eis_Groesse.jpg" />
+    <Widget xsi:type="widgets.brease.NavigationButton" id="NavigationButton1" top="360" left="40" width="200" height="80" zIndex="1" pageId="page_1" text="Startseite" mouseDownImageColor="rgba(255, 255, 255, 0)" disabledImageColor="rgba(255, 255, 255, 0)" backColor="rgba(255, 255, 255, 0)" disabledBackColor="rgba(255, 255, 255, 0)" borderColor="rgba(91, 124, 112, 0)" textColor="rgba(255, 255, 255, 0)" disabledTextColor="rgba(255, 255, 255, 0)" mouseDownBackColor="rgba(255, 255, 255, 0)" mouseDownTextColor="rgba(255, 255, 255, 0)" checkedBackColor="rgba(255, 255, 255, 0)" checkedTextColor="rgba(255, 255, 255, 0)" checkedImageColor="rgba(255, 255, 255, 0)" disabledCheckedTextColor="rgba(255, 255, 255, 0)" disabledCheckedImageColor="rgba(255, 255, 255, 0)" checkedBorderColor="rgba(253, 123, 1, 0)" disabledCheckedBackColor="rgba(255, 255, 255, 0)" />
+    <Widget xsi:type="widgets.brease.PushButton" id="PushButton1" top="360" left="280" width="240" height="80" zIndex="2" text="Start" imageColor="rgba(255, 255, 255, 0)" mouseDownImageColor="rgba(255, 255, 255, 0)" disabledImageColor="rgba(255, 255, 255, 0)" backColor="rgba(255, 255, 255, 0)" disabledBackColor="rgba(255, 255, 255, 0)" borderColor="rgba(91, 124, 112, 0)" textColor="rgba(255, 255, 255, 0)" disabledTextColor="rgba(255, 255, 255, 0)" mouseDownBorderColor="rgba(253, 123, 1, 0)" mouseDownBackColor="rgba(255, 255, 255, 0)" mouseDownTextColor="rgba(255, 255, 255, 0)" />
+    <Widget xsi:type="widgets.brease.RadioButtonGroup" id="RadioButtonGroup1" top="160" left="40" width="320" height="160" zIndex="3">
+      <Widgets>
+        <Widget xsi:type="widgets.brease.RadioButton" id="RadioButton1" top="0" left="0" width="160" height="160" zIndex="0" />
+        <Widget xsi:type="widgets.brease.RadioButton" id="RadioButton2" top="0" left="160" width="160" height="160" zIndex="1" value="true" />
+      </Widgets>
+    </Widget>
+    <Widget xsi:type="widgets.brease.RadioButtonGroup" id="RadioButtonGroup2" top="160" left="440" width="320" height="160" zIndex="4">
+      <Widgets>
+        <Widget xsi:type="widgets.brease.RadioButton" id="RadioButton3" top="0" left="0" width="160" height="160" zIndex="0" />
+        <Widget xsi:type="widgets.brease.RadioButton" id="RadioButton4" top="0" left="160" width="160" height="160" zIndex="1" value="true" />
+      </Widgets>
+    </Widget>
+  </Widgets>
+</Content>
