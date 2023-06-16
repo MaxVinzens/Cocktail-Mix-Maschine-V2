@@ -1,0 +1,65 @@
+VAR
+	InEndlageMotor : BOOL;
+	InLichtschranke : BOOL;
+	RButtonCock1 : BOOL; (*Radiobutton auf der Cocktailseite für den ersten Cocktail*)
+	RButtonCock2 : BOOL; (*Radiobutton auf der Cocktailseite für den zweiten Cocktail*)
+	RButtonCock3 : BOOL; (*Radiobutton auf der Cocktailseite für den dritten Cocktail*)
+	RButtonCock4 : BOOL; (*Radiobutton auf der Cocktailseite für den vierten Cocktail*)
+	RButtonCock5 : BOOL; (*Radiobutton auf der Cocktailseite für den Zufallscocktail*)
+	ButtonCZurueck : BOOL; (*Navigatoinbutton auf der Cocktailseite zum zurück auf die Hauptseite navigieren*)
+	RButtonShot1 : BOOL; (*Radiobutton auf der Shotseite für den ersten Shot*)
+	RButtonShot2 : BOOL; (*Radiobutton auf der Shotseite für den zweiten Shot*)
+	RButtonShot3 : BOOL; (*Radiobutton auf der Shotseite für den dritten Shot*)
+	RButtonShot4 : BOOL; (*Radiobutton auf der Shotseite für den vierten Shot*)
+	RButtonShot5 : BOOL; (*Radiobutton auf der Shotseite für den Zufallsshot*)
+	ButtonSZurueck : BOOL; (*Navigationbutton auf der Shotseite zum zurück auf die Hauptseite navigieren*)
+	Nachfuellen : BOOL;
+	Groessenfaktor : REAL;
+	Zutat4Fertig : BOOL;
+	Zutat3Fertig : BOOL;
+	Zutat2Fertig : BOOL;
+	Zutat1Fertig : BOOL;
+	EisFertig : BOOL; (*Flag*)
+	RButtonBEis : BOOL; (*Radiobutton auf der Bestellseite Eis-Haken*)
+	RButtonBKEis : BOOL; (*Radiobutton auf der Bestellseite Eis-Kreuz*)
+	RButtonBGross : BOOL; (*Radiobutton auf der Bestellseite großer Cocktail*)
+	RButtonBKlein : BOOL; (*Radiobutton auf der Bestellseite kleiner Cocktail*)
+	ButtonReset : BOOL; (*Button zum zurücksetzen der Variablen*)
+	ButtonCStart : BOOL; (*Button zum starten des Cocktails*)
+	ButtonSStart : BOOL; (*Button zum starten des Shots*)
+	ButtonBZurueck : BOOL; (*Navigationbutton auf der Bestellseite zum zurück zu Auswahlseite navigieren*)
+	Zustand : SINT; (*Variable für den Zustand*)
+	OutVentil1 : BOOL;
+	OutVentil2 : BOOL;
+	OutVentil3 : BOOL;
+	OutVentil4 : BOOL;
+	OutVentil5 : BOOL;
+	OutVentil6 : BOOL;
+	OutVentil7 : BOOL;
+	OutVentil8 : BOOL;
+	OutLampeRot : BOOL;
+	OutLampeGruen : BOOL;
+	OutPumpe : BOOL;
+	OutMotorEis : BOOL;
+	InAnalogWaage : INT; (*Werte des Analogeingangs vom Messumformer der Waage*)
+	FuellstandB1 : INT; (*Füllstand des 1. Behälters*)
+	FuellstandB2 : INT; (*Füllstand des 2. Behälters*)
+	FuellstandB3 : INT; (*Füllstand des 3. Behälters*)
+	FuellstandB4 : INT; (*Füllstand des 4. Behälters*)
+	FuellstandB5 : INT; (*Füllstand des 5. Behälters*)
+	FuellstandB6 : INT; (*Füllstand des 6. Behälters*)
+	FuellstandB7 : INT; (*Füllstand des 7. Behälters*)
+	FuellstandB8 : INT; (*Füllstand des 8. Behälters*)
+	ShotFertig : BOOL; (*Flag*)
+	IstGewicht : INT;
+	CocktailFertig : BOOL;
+	StartGewicht : INT;
+	Shot : USINT;
+	RButtonCock6 : BOOL; (*Radiobutton für den richtigen zufälligen Cocktail*)
+	Cocktail : USINT;
+	Zufall : USINT;
+	ZufallsZutatG : BOOL;
+	ZufallsZutat : USINT;
+	Durchgang : USINT;
+	ZufallZufall : USINT;
+END_VAR
