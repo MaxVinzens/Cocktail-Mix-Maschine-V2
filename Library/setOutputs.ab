@@ -1,0 +1,16 @@
+
+(* TODO: Add your comment here *)
+FUNCTION setOutputs
+	//OutVentil1 := ventil1;
+	//OutVentil2 := ventil2;
+	//OutVentil3 := ventil3;
+	//OutVentil4 := ventil4;
+	//OutVentil5 := ventil5;
+	//OutVentil6 := ventil6;
+	//OutVentil7 := ventil7;
+	//OutVentil8 := ventil8;
+	//OutLampeRot := rot;
+	//OutLampeGruen := gruen;
+	//OutPumpe := pumpe;
+	//OutMotorEis := motor;
+END_FUNCTION
