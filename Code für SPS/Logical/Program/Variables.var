@@ -1,0 +1,35 @@
+VAR
+	InWiegezelle : INT;
+	InLichtschranke : BOOL;
+	InEndlageMotor : BOOL;
+	ButtonHShot : BOOL; (*Softbutton auf der Hauptseite für die Shots*)
+	ButtonHCock : BOOL; (*Softbutton auf der Hauptseite für die Cocktails*)
+	ButtonCCock1 : BOOL; (*Softbutton auf der Cocktailseite für den ersten Cocktail*)
+	ButtonCCock2 : BOOL; (*Softbutton auf der Cocktailseite für den zweiten Cocktail*)
+	ButtonCCock3 : BOOL; (*Softbutton auf der Cocktailseite für den dritten Cocktail*)
+	ButtonCCock4 : BOOL; (*Softbutton auf der Cocktailseite für den vierten Cocktail*)
+	ButtonCZurueck : BOOL; (*Softbutton auf der Cocktailseite zum zurück auf die Hauptseite navigieren*)
+	ButtonSShot1 : BOOL; (*Softbutton auf der Shotseite für den ersten Shot*)
+	ButtonSShot2 : BOOL; (*Softbutton auf der Shotseite für den zweiten Shot*)
+	ButtonSShot3 : BOOL; (*Softbutton auf der Shotseite für den dritten Shot*)
+	ButtonSShot4 : BOOL; (*Softbutton auf der Shotseite für den vierten Shot*)
+	ButtonSZurueck : BOOL; (*Softbutton auf der Shotseite zum zurück auf die Hauptseite navigieren*)
+	ButtonBEis : BOOL; (*Softbutton auf der Bestellseite Eis-Haken*)
+	ButtonBKEis : BOOL; (*Softbutton auf der Bestellseite Eis-Kreuz*)
+	ButtonBGross : BOOL; (*Softbutton auf der Bestellseite großer Cocktail*)
+	ButtonBKlein : BOOL; (*Softbutton auf der Bestellseite kleiner Cocktail*)
+	ButtonBZurueck : BOOL; (*Softbutton auf der Bestellseite zum zurück zu Auswahlseite navigieren*)
+	Zustand : SINT; (*Variable für den Zustand*)
+	OutVentil1 : BOOL;
+	OutVentil2 : BOOL;
+	OutVentil3 : BOOL;
+	OutVentil4 : BOOL;
+	OutVentil5 : BOOL;
+	OutVentil6 : BOOL;
+	OutVentil7 : BOOL;
+	OutVentil8 : BOOL;
+	OutLampeRot : BOOL;
+	OutLampeGruen : BOOL;
+	OutPumpe : BOOL;
+	OutMotorEis : BOOL;
+END_VAR
