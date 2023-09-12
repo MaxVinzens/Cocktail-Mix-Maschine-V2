@@ -1,0 +1,8 @@
+WATCH Ver=2.00 PLCName=PLC1 CPUName=CPU TaskName=Program1 
+Position X=0 Y=0 Width=0 Height=0 TabWidth Name=200 Type=100 Scope=60 Force=60 Index=0 ASCIIString=0
+                                    name                                     type force                                                            value level type len format place expand specs
+                           InAnalogWaage                                      INT    1 "                                                           32767"    0    3    1   10    1    0         
+                         InEndlageMotor2                                     BOOL    1 "                                                           FALSE"    0    1    1    2    1    0         
+                          InEndlageMotor                                     BOOL    1 "                                                           FALSE"    0    1    1    2    1    0         
+                         InLichtschranke                                     BOOL    1 "                                                           FALSE"    0    1    1    2    1    0         
+                              OutVentil1                                     BOOL    3 "                                                           FALSE"    0    1    1    2    1    0         

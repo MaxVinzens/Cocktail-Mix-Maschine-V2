@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<disps>
+  <disp>
+    <name>EisFertig</name>
+    <format></format>
+  </disp>
+  <disp>
+    <name>InEndlageMotor2</name>
+    <format></format>
+  </disp>
+  <disp>
+    <name>InEndlageMotor</name>
+    <format></format>
+  </disp>
+  <disp>
+    <name>OutMotorEis</name>
+    <format></format>
+  </disp>
+</disps>
