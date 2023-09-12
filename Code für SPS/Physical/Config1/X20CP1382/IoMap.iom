@@ -1,0 +1,18 @@
+VAR_CONFIG
+	::Program1:OutVentil2 AT %QX."X3".DigitalOutput02;
+	::Program1:InLichtschranke AT %IX."X2".DigitalInput01;
+	::Program1:OutVentil1 AT %QX."X3".DigitalOutput01;
+	::Program1:OutVentil3 AT %QX."X3".DigitalOutput03;
+	::Program1:OutVentil4 AT %QX."X3".DigitalOutput04;
+	::Program1:OutVentil5 AT %QX."X3".DigitalOutput05;
+	::Program1:OutVentil6 AT %QX."X3".DigitalOutput06;
+	::Program1:OutVentil7 AT %QX."X3".DigitalOutput07;
+	::Program1:OutVentil8 AT %QX."X3".DigitalOutput08;
+	::Program1:OutPumpe AT %QX."X3".DigitalOutput09;
+	::Program1:OutMotorEis AT %QX."X3".DigitalOutput10;
+	::Program1:OutLampeGruen AT %QX."X3".DigitalOutput11;
+	::Program1:OutLampeRot AT %QX."X3".DigitalOutput12;
+	::Program1:InEndlageMotor AT %IX."X2".DigitalInput02;
+	::Program1:InEndlageMotor2 AT %IX."X2".DigitalInput03;
+	::Program1:InAnalogWaage AT %IW."X1".AnalogInput02;
+END_VAR

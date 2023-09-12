@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BindingsSet id="binding_0" xmlns="http://www.br-automation.com/iat2015/binding/engineering/v2" xmlns:bt="http://www.br-automation.com/iat2015/bindingListTypes/engineering/v2" xmlns:be="http://www.br-automation.com/iat2015/bindingListEmbedded/engineering/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Bindings>
+<Binding mode="twoWay">
+<Source xsi:type="opcUa" refId="::Program1:RButtonBEis" attribute="value" />
+<Target xsi:type="brease" contentRefId="Confmenue" widgetRefId="RadioButton1" attribute="value" />
+</Binding>
+<Binding mode="twoWay">
+<Source xsi:type="opcUa" refId="::Program1:RButtonBKlein" attribute="value" />
+<Target xsi:type="brease" contentRefId="Confmenue" widgetRefId="RadioButton3" attribute="value" />
+</Binding>
+<Binding mode="twoWay">
+<Source xsi:type="opcUa" refId="::Program1:RButtonBKEis" attribute="value" />
+<Target xsi:type="brease" contentRefId="Confmenue" widgetRefId="RadioButton2" attribute="value" />
+</Binding>
+<Binding mode="twoWay">
+<Source xsi:type="opcUa" refId="::Program1:RButtonBGross" attribute="value" />
+<Target xsi:type="brease" contentRefId="Confmenue" widgetRefId="RadioButton4" attribute="value" />
+</Binding>
+<Binding mode="twoWay">
+<Source xsi:type="opcUa" refId="::Program1:RButtonCock4" attribute="value" />
+<Target xsi:type="brease" contentRefId="Cocktailmenue" widgetRefId="RadioButton4" attribute="value" />
+</Binding>
+<Binding mode="twoWay">
+<Source xsi:type="opcUa" refId="::Program1:RButtonCock3" attribute="value" />
+<Target xsi:type="brease" contentRefId="Cocktailmenue" widgetRefId="RadioButton3" attribute="value" />
+</Binding>
+<Binding mode="twoWay">
+<Source xsi:type="opcUa" refId="::Program1:RButtonCock2" attribute="value" />
+<Target xsi:type="brease" contentRefId="Cocktailmenue" widgetRefId="RadioButton2" attribute="value" />
+</Binding>
+<Binding mode="twoWay">
+<Source xsi:type="opcUa" refId="::Program1:RButtonCock1" attribute="value" />
+<Target xsi:type="brease" contentRefId="Cocktailmenue" widgetRefId="RadioButton1" attribute="value" />
+</Binding>
+<Binding mode="twoWay">
+<Source xsi:type="opcUa" refId="::Program1:RButtonShot4" attribute="value" />
+<Target xsi:type="brease" contentRefId="Shotmenue" widgetRefId="RadioButton4" attribute="value" />
+</Binding>
+<Binding mode="twoWay">
+<Source xsi:type="opcUa" refId="::Program1:RButtonShot3" attribute="value" />
+<Target xsi:type="brease" contentRefId="Shotmenue" widgetRefId="RadioButton3" attribute="value" />
+</Binding>
+<Binding mode="twoWay">
+<Source xsi:type="opcUa" refId="::Program1:RButtonShot2" attribute="value" />
+<Target xsi:type="brease" contentRefId="Shotmenue" widgetRefId="RadioButton2" attribute="value" />
+</Binding>
+<Binding mode="twoWay">
+<Source xsi:type="opcUa" refId="::Program1:RButtonShot1" attribute="value" />
+<Target xsi:type="brease" contentRefId="Shotmenue" widgetRefId="RadioButton1" attribute="value" />
+</Binding>
+<Binding mode="twoWay">
+<Source xsi:type="opcUa" refId="::Program1:ButtonReset" attribute="value" />
+<Target xsi:type="brease" contentRefId="Mainmenue" widgetRefId="PushButton1" attribute="value" />
+</Binding>
+<Binding mode="twoWay">
+<Source xsi:type="opcUa" refId="::Program1:RButtonShot5" attribute="value" />
+<Target xsi:type="brease" contentRefId="Shotmenue" widgetRefId="RadioButton5" attribute="value" />
+</Binding>
+<Binding mode="twoWay">
+<Source xsi:type="opcUa" refId="::Program1:RButtonCock5" attribute="value" />
+<Target xsi:type="brease" contentRefId="Cocktailmenue" widgetRefId="RadioButton5" attribute="value" />
+</Binding>
+<Binding mode="twoWay">
+<Source xsi:type="opcUa" refId="::Program1:ButtonCStart" attribute="value" />
+<Target xsi:type="brease" contentRefId="Confmenue" widgetRefId="PushButton1" attribute="value" />
+</Binding>
+
+<Binding mode="twoWay">
+<Source xsi:type="opcUa" refId="::Program1:RButtonCock6" attribute="value" />
+<Target xsi:type="brease" contentRefId="Cocktailmenue" widgetRefId="RadioButton6" attribute="value" />
+</Binding>
+<Binding mode="twoWay">
+<Source xsi:type="opcUa" refId="::Program1:ButtonSStart" attribute="value" />
+<Target xsi:type="brease" contentRefId="Shotmenue" widgetRefId="PushButton1" attribute="value" />
+</Binding>
+<Binding mode="twoWay">
+<Source xsi:type="opcUa" refId="::Program1:Reinigung_1" attribute="value" />
+<Target xsi:type="brease" contentRefId="Reinigung" widgetRefId="PushButton1" attribute="value" />
+</Binding>
+<Binding mode="twoWay">
+<Source xsi:type="opcUa" refId="::Program1:Reinigung_2" attribute="value" />
+<Target xsi:type="brease" contentRefId="Reinigung" widgetRefId="PushButton2" attribute="value" />
+</Binding>
+<Binding mode="twoWay">
+<Source xsi:type="opcUa" refId="::Program1:Reinigung_3" attribute="value" />
+<Target xsi:type="brease" contentRefId="Reinigung" widgetRefId="PushButton3" attribute="value" />
+</Binding>
+<Binding mode="twoWay">
+<Source xsi:type="opcUa" refId="::Program1:Reinigung_4" attribute="value" />
+<Target xsi:type="brease" contentRefId="Reinigung" widgetRefId="PushButton4" attribute="value" />
+</Binding>
+<Binding mode="twoWay">
+<Source xsi:type="opcUa" refId="::Program1:Reinigung_5" attribute="value" />
+<Target xsi:type="brease" contentRefId="Reinigung" widgetRefId="PushButton5" attribute="value" />
+</Binding>
+<Binding mode="twoWay">
+<Source xsi:type="opcUa" refId="::Program1:Reinigung_6" attribute="value" />
+<Target xsi:type="brease" contentRefId="Reinigung" widgetRefId="PushButton6" attribute="value" />
+</Binding>
+<Binding mode="twoWay">
+<Source xsi:type="opcUa" refId="::Program1:Reinigung_7" attribute="value" />
+<Target xsi:type="brease" contentRefId="Reinigung" widgetRefId="PushButton7" attribute="value" />
+</Binding>
+<Binding mode="twoWay">
+<Source xsi:type="opcUa" refId="::Program1:Reinigung_8" attribute="value" />
+<Target xsi:type="brease" contentRefId="Reinigung" widgetRefId="PushButton8" attribute="value" />
+</Binding>
+<Binding mode="twoWay">
+<Source xsi:type="opcUa" refId="::Program1:Reinigung_Stopp" attribute="value" />
+<Target xsi:type="brease" contentRefId="Reinigung" widgetRefId="PushButton9" attribute="value" />
+</Binding>
+<Binding mode="twoWay">
+<Source xsi:type="opcUa" refId="::Program1:Motor_Hand" attribute="value" />
+<Target xsi:type="brease" contentRefId="Reinigung" widgetRefId="PushButton10" attribute="value" />
+</Binding>
+<Binding mode="twoWay">
+<Source xsi:type="opcUa" refId="::Program1:Motor_Ausgang" attribute="value" />
+<Target xsi:type="brease" contentRefId="Reinigung" widgetRefId="PushButton11" attribute="value" />
+</Binding>
+</Bindings>
+</BindingsSet>

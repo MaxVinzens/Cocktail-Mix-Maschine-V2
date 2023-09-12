@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio FileVersion="4.9"?>
+<OpcUaSource FileVersion="9" ArVersion="B4.63">
+  <Aliases>
+    <ACLAliases />
+    <EURangeViolationAliases />
+    <EURangesAliases />
+    <EngineeringUnitAliases />
+  </Aliases>
+  <DefaultView>
+    <Module Name="&lt;Default&gt;">
+      <Task Name="Program1">
+        <Variable Name="RButtonBEis" />
+        <Variable Name="RButtonBGross" />
+        <Variable Name="RButtonBKEis" />
+        <Variable Name="RButtonBKlein" />
+        <Variable Name="ButtonBZurueck" />
+        <Variable Name="RButtonCock1" />
+        <Variable Name="RButtonCock2" />
+        <Variable Name="RButtonCock3" />
+        <Variable Name="RButtonCock4" />
+        <Variable Name="ButtonCZurueck" />
+        <Variable Name="RButtonShot1" />
+        <Variable Name="RButtonShot2" />
+        <Variable Name="RButtonShot3" />
+        <Variable Name="RButtonShot4" />
+        <Variable Name="ButtonSZurueck" />
+        <Variable Name="RButtonShot5" />
+        <Variable Name="RButtonCock5" />
+        <Variable Name="ButtonCStart" />
+        <Variable Name="ButtonSStart" />
+        <Variable Name="ButtonReset" />
+        <Variable Name="RButtonCock6" />
+        <Variable Name="Reinigung_1" />
+        <Variable Name="Reinigung_2" />
+        <Variable Name="Reinigung_3" />
+        <Variable Name="Reinigung_4" />
+        <Variable Name="Reinigung_5" />
+        <Variable Name="Reinigung_6" />
+        <Variable Name="Reinigung_7" />
+        <Variable Name="Reinigung_8" />
+        <Variable Name="Reinigung_Stopp" />
+        <Variable Name="Motor_Hand" />
+        <Variable Name="Motor_Ausgang" />
+      </Task>
+    </Module>
+  </DefaultView>
+</OpcUaSource>
