@@ -18,7 +18,8 @@ Als Voraussetzung für die Realisierung wurde verlangt, die Software "Automation
 
 
 # Status der Entwicklung
-Unfertig.
+In den letzten Zügen.
+Erste Tests waren erfolgreich.
 
 # Rules 
 
