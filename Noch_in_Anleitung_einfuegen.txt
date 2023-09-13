@@ -1,0 +1,43 @@
+Auffangbecken\\
+- Schublade_TeilA.stl\\
+- Schublade TeilB.stl\\
+- Halterung Behätler.stl\\
+Becherhalter\\
+- becherhalter V3 v2.stl\\
+- becher halterung v2 v2.stl\\
+- Becherhalterung.stl\\
+Eisdosierer\\
+- Eisdosierer1-Body002.stl\\
+- Entlagenschalter_Halter-Halter.stl\\
+- Platte_mitloch-Body.stl\\
+- Platte_ohneloch-Body.stl\\
+- Spritzschutz-Teil1.stl\\
+- Spritzschutz-Teil2.stl\\
+- Trichter_Eingang_neu-Body.stl\\
+- getriebe-Zahnrad Eisdosierer.stl\\
+- getriebe-zahnrad motor.stl\\
+- trichter_Ausgang4-Body.stl\\
+- trichter_Ausgang4-Seite1.stl\\
+- trichter_Ausgang4-Seite2.stl\\
+- Platte_Trichter.stl\\
+Gehäuse Bildschirm\\
+- Halterung Deckel.stl
+- Halterung2.0.stl
+Verkleidung\\
+- Abdeckung Profielschiene oben v1.stl
+- Abdeckung Profielschine Unten v1.stl
+- Verkleidung.stl
+
+
+/Caption{Auffangbecken und Schutz}
+1.\\
+Schublade TeilA mit Schublade TeilB verkleben\\
+\\
+2.\\
+Halterung montieren\\
+\\
+3.\\
+Bringen Sie die obere Abdeckung der Profielschiene, auf der mittleren Profielschiene der Vorderseite an  \\
+\\
+4.\\
+Bringen Sie die untere Abdeckung der Profielschiene, auf der unteren Profielschiene der Vorderseite an  \\
