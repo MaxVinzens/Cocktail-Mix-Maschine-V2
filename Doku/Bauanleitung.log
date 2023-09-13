@@ -1,0 +1,552 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.9.7)  13 SEP 2023 18:43
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./Bauanleitung.tex
+(Bauanleitung.tex
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-08-29>
+(C:\Users\student\AppData\Local\Programs\MiKTeX\tex/latex/base\report.cls
+Document Class: report 2023/05/17 v1.4n Standard LaTeX document class
+(C:\Users\student\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@chapter=\count186
+\c@section=\count187
+\c@subsection=\count188
+\c@subsubsection=\count189
+\c@paragraph=\count190
+\c@subparagraph=\count191
+\c@figure=\count192
+\c@table=\count193
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(C:\Users\student\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(C:\Users\student\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+(C:\Users\student\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(C:\Users\student\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\student\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count194
+\Gm@cntv=\count195
+\c@Gm@tempcnt=\count196
+\Gm@bindingoffset=\dimen141
+\Gm@wd@mp=\dimen142
+\Gm@odd@mp=\dimen143
+\Gm@even@mp=\dimen144
+\Gm@layoutwidth=\dimen145
+\Gm@layoutheight=\dimen146
+\Gm@layouthoffset=\dimen147
+\Gm@layoutvoffset=\dimen148
+\Gm@dimlist=\toks18
+
+(C:\Users\student\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg
+)) (C:\Users\student\AppData\Local\Programs\MiKTeX\tex/latex/graphics\color.sty
+Package: color 2022/01/06 v1.3d Standard LaTeX Color (DPC)
+
+(C:\Users\student\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cf
+g
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 149.
+
+(C:\Users\student\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.d
+ef
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+)
+(C:\Users\student\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.lt
+x))
+(C:\Users\student\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pdfpages.sty
+Package: pdfpages 2022/12/19 v0.5x Insert pages of external PDF documents (AM)
+(C:\Users\student\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+(C:\Users\student\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count197
+\calc@Bcount=\count198
+\calc@Adimen=\dimen149
+\calc@Bdimen=\dimen150
+\calc@Askip=\skip50
+\calc@Bskip=\skip51
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count199
+\calc@Cskip=\skip52
+)
+(C:\Users\student\AppData\Local\Programs\MiKTeX\tex/latex/eso-pic\eso-pic.sty
+Package: eso-pic 2023/05/03 v3.0c eso-pic (RN)
+\ESO@tempdima=\dimen151
+\ESO@tempdimb=\dimen152
+)
+(C:\Users\student\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\student\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+(C:\Users\student\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\student\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics
+.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+)
+\Gin@req@height=\dimen153
+\Gin@req@width=\dimen154
+)
+\AM@pagewidth=\dimen155
+\AM@pageheight=\dimen156
+\AM@fboxrule=\dimen157
+
+(C:\Users\student\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pppdftex.def
+File: pppdftex.def 2022/12/19 v0.5x Pdfpages driver for pdfTeX (AM)
+)
+\pdfpages@includegraphics@status=\count266
+\AM@pagebox=\box51
+\AM@global@opts=\toks19
+\AM@pagecnt=\count267
+\AM@toc@title=\toks20
+\AM@lof@heading=\toks21
+\c@AM@survey=\count268
+\AM@templatesizebox=\box52
+)
+(C:\Users\student\AppData\Local\Programs\MiKTeX\tex/latex/wrapfig\wrapfig.sty
+\wrapoverhang=\dimen158
+\WF@size=\dimen159
+\c@WF@wrappedlines=\count269
+\WF@box=\box53
+\WF@everypar=\toks22
+Package: wrapfig 2003/01/31  v 3.6
+)
+(C:\Users\student\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-p
+dftex.def
+File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count270
+\l__pdf_internal_box=\box54
+) (Bauanleitung.aux)
+\openout1 = `Bauanleitung.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(71.1319pt, 455.24408pt, 71.1319pt)
+* v-part:(T,H,B)=(30.72897pt, 768.2244pt, 46.09348pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24408pt
+* \textheight=768.2244pt
+* \oddsidemargin=-1.13809pt
+* \evensidemargin=-1.13809pt
+* \topmargin=-78.54102pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=57.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+(C:\Users\student\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.
+mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count271
+\scratchdimen=\dimen160
+\scratchbox=\box55
+\nofMPsegments=\count272
+\nofMParguments=\count273
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count274
+\MPscratchDim=\dimen161
+\MPnumerator=\count275
+\makeMPintoPDFobject=\count276
+\everyMPtoPDFconversion=\toks24
+)
+(C:\Users\student\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf
+-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\student\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys
+.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+(C:\Users\student\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape.s
+ty
+Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
+
+(C:\Users\student\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape-n
+ometadata.sty
+Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PD
+F (HO)
+
+(C:\Users\student\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+))
+<HTWK_Logo.jpg, id=1, 501.875pt x 501.875pt>
+File: HTWK_Logo.jpg Graphic file (type jpg)
+<use HTWK_Logo.jpg>
+Package pdftex.def Info: HTWK_Logo.jpg  used on input line 13.
+(pdftex.def)             Requested size: 150.56366pt x 150.56366pt.
+LaTeX Font Info:    Trying to load font information for T1+cmss on input line 2
+1.
+ (C:\Users\student\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmss.fd
+File: t1cmss.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 37.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 37.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 37.
+
+[1
+
+{C:/Users/student/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./HTWK_Log
+o.jpg>] (Bauanleitung.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 3.
+)
+\tf@toc=\write3
+\openout3 = `Bauanleitung.toc'.
+
+ [1
+
+]
+Chapter 1.
+[2
+
+]
+Chapter 2.
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--71
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--74
+
+ []
+
+[3
+
+]
+Chapter 3.
+
+
+pdfTeX warning: pdflatex.exe (file ./Abb.8 Grundaufbau_Skizze.pdf): PDF inclusi
+on: found PDF version <1.7>, but at most version <1.5> allowed
+<Abb.8 Grundaufbau_Skizze.pdf, id=26, 597.23125pt x 845.1575pt>
+File: Abb.8 Grundaufbau_Skizze.pdf Graphic file (type pdf)
+<use Abb.8 Grundaufbau_Skizze.pdf>
+Package pdftex.def Info: Abb.8 Grundaufbau_Skizze.pdf  used on input line 86.
+(pdftex.def)             Requested size: 227.62204pt x 322.1175pt.
+[4
+
+ <./Abb.8 Grundaufbau_Skizze.pdf>]
+<Abb.9_Grundskelett_unvollständig.jpg, id=42, 1004.75375pt x 1499.6025pt>
+File: Abb.9_Grundskelett_unvollständig.jpg Graphic file (type jpg)
+<use Abb.9_Grundskelett_unvollständig.jpg>
+Package pdftex.def Info: Abb.9_Grundskelett_unvollständig.jpg  used on input l
+ine 92.
+(pdftex.def)             Requested size: 227.62204pt x 339.70709pt.
+<Abb.16_bemalte_Holzwand.jpg, id=43, 819.06pt x 306.9066pt>
+File: Abb.16_bemalte_Holzwand.jpg Graphic file (type jpg)
+<use Abb.16_bemalte_Holzwand.jpg>
+Package pdftex.def Info: Abb.16_bemalte_Holzwand.jpg  used on input line 101.
+(pdftex.def)             Requested size: 227.62204pt x 85.29169pt.
+ [5 <./Abb.9_Grundskelett_unvollständig.jpg> <./Abb.16_bemalte_Holzwand.jpg>]
+<Abb.4_Verkleidung.jpg, id=47, 4047.12pt x 2276.505pt>
+File: Abb.4_Verkleidung.jpg Graphic file (type jpg)
+<use Abb.4_Verkleidung.jpg>
+Package pdftex.def Info: Abb.4_Verkleidung.jpg  used on input line 109.
+(pdftex.def)             Requested size: 227.62204pt x 128.00446pt.
+<Abb.5_Verkleidung_befestigt.jpg, id=48, 1890.06125pt x 3095.565pt>
+File: Abb.5_Verkleidung_befestigt.jpg Graphic file (type jpg)
+<use Abb.5_Verkleidung_befestigt.jpg>
+Package pdftex.def Info: Abb.5_Verkleidung_befestigt.jpg  used on input line 11
+4.
+(pdftex.def)             Requested size: 227.62204pt x 372.77434pt.
+ [6 <./Abb.4_Verkleidung.jpg> <./Abb.5_Verkleidung_befestigt.jpg>]
+Chapter 4.
+
+Underfull \hbox (badness 10000) in paragraph at lines 120--125
+
+ []
+
+[7
+
+]
+Chapter 5.
+<Supply (V2) .pdf, id=56, 1195.5867pt x 845.07718pt>
+File: Supply (V2) .pdf Graphic file (type pdf)
+<use Supply (V2) .pdf>
+Package pdftex.def Info: Supply (V2) .pdf  used on input line 132.
+(pdftex.def)             Requested size: 455.24408pt x 321.7774pt.
+<DI AI (V2).pdf, id=57, 1195.5867pt x 845.07718pt>
+File: DI AI (V2).pdf Graphic file (type pdf)
+<use DI AI (V2).pdf>
+Package pdftex.def Info: DI AI (V2).pdf  used on input line 137.
+(pdftex.def)             Requested size: 455.24408pt x 321.7774pt.
+<DO AO SPS (V2).pdf, id=58, 1195.5867pt x 845.07718pt>
+File: DO AO SPS (V2).pdf Graphic file (type pdf)
+<use DO AO SPS (V2).pdf>
+Package pdftex.def Info: DO AO SPS (V2).pdf  used on input line 142.
+(pdftex.def)             Requested size: 455.24408pt x 321.7774pt.
+<LEDs (V2).pdf, id=59, 1195.5867pt x 845.07718pt>
+File: LEDs (V2).pdf Graphic file (type pdf)
+<use LEDs (V2).pdf>
+Package pdftex.def Info: LEDs (V2).pdf  used on input line 147.
+(pdftex.def)             Requested size: 455.24408pt x 321.7774pt.
+[8
+
+ <./Supply (V2) .pdf>] [9 <./DI AI (V2).pdf> <./DO AO SPS (V2).pdf>] [10 <./LED
+s (V2).pdf>]
+Chapter 6.
+<zu 1..png, id=174, 1117.67563pt x 525.46312pt>
+File: zu 1..png Graphic file (type png)
+<use zu 1..png>
+Package pdftex.def Info: zu 1..png  used on input line 158.
+(pdftex.def)             Requested size: 455.24408pt x 214.03012pt.
+<zu2..png, id=176, 1016.29688pt x 688.07062pt>
+File: zu2..png Graphic file (type png)
+<use zu2..png>
+Package pdftex.def Info: zu2..png  used on input line 166.
+(pdftex.def)             Requested size: 364.19664pt x 246.57133pt.
+[11
+
+ <./zu 1..png> <./zu2..png>]
+<zu3..png, id=182, 1181.91562pt x 153.07187pt>
+File: zu3..png Graphic file (type png)
+<use zu3..png>
+Package pdftex.def Info: zu3..png  used on input line 175.
+(pdftex.def)             Requested size: 455.24408pt x 58.9597pt.
+<zu4..png, id=183, 551.05875pt x 585.68813pt>
+File: zu4..png Graphic file (type png)
+<use zu4..png>
+Package pdftex.def Info: zu4..png  used on input line 183.
+(pdftex.def)             Requested size: 136.5746pt x 145.15263pt.
+<zu5..png, id=184, 597.73312pt x 800.9925pt>
+File: zu5..png Graphic file (type png)
+<use zu5..png>
+Package pdftex.def Info: zu5..png  used on input line 191.
+(pdftex.def)             Requested size: 182.09485pt x 244.01514pt.
+ [12 <./zu3..png> <./zu4..png> <./zu5..png>]
+<zu6..png, id=192, 259.46938pt x 468.75125pt>
+File: zu6..png Graphic file (type png)
+<use zu6..png>
+Package pdftex.def Info: zu6..png  used on input line 200.
+(pdftex.def)             Requested size: 182.09485pt x 328.98193pt.
+<zu7..png, id=193, 511.41063pt x 333.245pt>
+File: zu7..png Graphic file (type png)
+<use zu7..png>
+Package pdftex.def Info: zu7..png  used on input line 208.
+(pdftex.def)             Requested size: 273.14922pt x 177.98683pt.
+
+[13 <./zu6..png> <./zu7..png>]
+<zu8..png, id=199, 509.905pt x 361.35pt>
+File: zu8..png Graphic file (type png)
+<use zu8..png>
+Package pdftex.def Info: zu8..png  used on input line 216.
+(pdftex.def)             Requested size: 455.24408pt x 322.63156pt.
+ [14 <./zu8..png>]
+Chapter 7.
+
+Underfull \hbox (badness 10000) in paragraph at lines 224--255
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 224--255
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 224--255
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 224--255
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 224--255
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 224--255
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 224--255
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 224--255
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 224--255
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 224--255
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 224--255
+
+ []
+
+[15
+
+]
+<Explosion2.png, id=207, 729.47531pt x 540.51938pt>
+File: Explosion2.png Graphic file (type png)
+<use Explosion2.png>
+Package pdftex.def Info: Explosion2.png  used on input line 260.
+(pdftex.def)             Requested size: 273.14922pt x 202.3891pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 256--267
+
+ []
+
+[16 <./Explosion2.png>]
+Chapter 8.
+
+Underfull \hbox (badness 10000) in paragraph at lines 269--280
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 269--280
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 269--280
+
+ []
+
+[17
+
+]
+Chapter 9.
+
+Underfull \hbox (badness 10000) in paragraph at lines 282--293
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 282--293
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 282--293
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 282--293
+
+ []
+
+[18
+
+]
+Chapter 10.
+
+Underfull \hbox (badness 10000) in paragraph at lines 295--297
+
+ []
+
+[19
+
+] (Bauanleitung.aux)
+ ***********
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-08-29>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 3351 strings out of 475247
+ 55967 string characters out of 5756849
+ 1924801 words of memory out of 5000000
+ 24842 multiletter control sequences out of 15000+600000
+ 570296 words of font info for 56 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 72i,7n,79p,932b,236s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\student\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tc
+rm1000.pk> <C:\Users\student\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/d
+pi600\ecbx1440.pk> <C:\Users\student\AppData\Local\MiKTeX\fonts/pk/ljfour/jknap
+pen/ec/dpi600\ecbx2074.pk> <C:\Users\student\AppData\Local\MiKTeX\fonts/pk/ljfo
+ur/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\student\AppData\Local\MiKTeX\fonts
+/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\student\AppData\Local\MiKT
+eX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk> <C:\Users\student\AppData\Lo
+cal\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0900.pk> <C:\Users\student\Ap
+pData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\st
+udent\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss1728.pk> <C:\
+Users\student\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsl1728.
+pk><C:/Users/student/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
+cm/cmsy9.pfb>
+Output written on Bauanleitung.pdf (20 pages, 15373009 bytes).
+PDF statistics:
+ 600 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 96 words of extra memory for PDF output out of 10000 (max. 10000000)
+

@@ -1,0 +1,38 @@
+\babel@toc {ngerman}{}\relax 
+\contentsline {chapter}{\numberline {1}Einleitung}{2}{}%
+\contentsline {chapter}{\numberline {2}Aufgabenverteilung}{3}{}%
+\contentsline {chapter}{\numberline {3}Zukunft V3}{4}{}%
+\contentsline {chapter}{\numberline {4}Elektronik-Komponentenauswahl}{5}{}%
+\contentsline {section}{\numberline {4.1}Grundsätzliche Auswahlphilosophie}{5}{}%
+\contentsline {section}{\numberline {4.2}Auswahl der Steuerung}{5}{}%
+\contentsline {section}{\numberline {4.3}Auswahl des HMI}{6}{}%
+\contentsline {section}{\numberline {4.4}Auswahl der Antriebstechnik}{7}{}%
+\contentsline {subsection}{\numberline {4.4.1}Pumpenmotor 24 V}{7}{}%
+\contentsline {subsection}{\numberline {4.4.2}DC Motor 24 V mit Planetengetriebe Serie 38/1 S}{7}{}%
+\contentsline {section}{\numberline {4.5}Auswahl des Feldbus}{8}{}%
+\contentsline {section}{\numberline {4.6}Auswahl der Feldgeräte}{8}{}%
+\contentsline {section}{\numberline {4.7}Auswahl der Spannungsversorgung}{11}{}%
+\contentsline {chapter}{\numberline {5}Gehäuseaufbau}{13}{}%
+\contentsline {chapter}{\numberline {6}Verkabelung}{15}{}%
+\contentsline {chapter}{\numberline {7}Verschlauchung}{19}{}%
+\contentsline {section}{\numberline {7.1}Aufgabe}{19}{}%
+\contentsline {section}{\numberline {7.2}Problemlösung}{19}{}%
+\contentsline {section}{\numberline {7.3}Umsetzung}{19}{}%
+\contentsline {chapter}{\numberline {8}SPS-Programm}{21}{}%
+\contentsline {chapter}{\numberline {9}3-D Druck}{23}{}%
+\contentsline {section}{\numberline {9.1}Eisbehälter}{23}{}%
+\contentsline {subsection}{\numberline {9.1.1}Ausgangsgedanke}{23}{}%
+\contentsline {subsection}{\numberline {9.1.2}Ideenfindung}{23}{}%
+\contentsline {subsection}{\numberline {9.1.3}Grundüberlegung}{23}{}%
+\contentsline {subsection}{\numberline {9.1.4}Das Kernstück: die Dosiereinheit}{24}{}%
+\contentsline {subsection}{\numberline {9.1.5}Eis-Aufbewahrungsbehälter und Ausgangstrichter}{24}{}%
+\contentsline {subsection}{\numberline {9.1.6}Aufgetretene Probleme und Fehler}{25}{}%
+\contentsline {section}{\numberline {9.2}Bildschirmhalterung}{25}{}%
+\contentsline {section}{\numberline {9.3}Verkleidung der Öffnung}{25}{}%
+\contentsline {section}{\numberline {9.4}Becherständer}{26}{}%
+\contentsline {section}{\numberline {9.5}Becherhalterung}{26}{}%
+\contentsline {chapter}{\numberline {10}Gestaltung}{27}{}%
+\contentsline {section}{\numberline {10.1}Layouts}{27}{}%
+\contentsline {section}{\numberline {10.2}Außenwandgestaltung}{28}{}%
+\contentsline {chapter}{\numberline {11}Cocktailauswahl}{29}{}%
+\contentsline {chapter}{\numberline {12}Reinigung}{30}{}%
