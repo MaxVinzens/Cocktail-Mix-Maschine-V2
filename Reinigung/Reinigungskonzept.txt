@@ -1,0 +1,31 @@
+1) Menü Reinigung (Bedienpanel) auswählen
+2) alle Behälter aufdrehen
+3) Pumpe einschalten: dafür Behälter 1 drücken 
+4) alle Behälter entleeren, danach Stop drücken
+5) alle Behälter mit Wasser füllen, anschließen und zudrehen
+6) alle Schläuche mit Wasser durchspülen, dazu:
+	- einen Becher in die Cocktailmaschine stellen
+	- Behälter 1 drücken
+	- warten, bis klares Wasser in den Becher strömt
+	- Vorgang wiederholen für Behälter 2-8, danach Stop drücken
+7) Behälter aufdrehen, danach Behälter 1 (Bedienpanel) drücken
+8) alle Behälter entleeren, danach Stop drücken
+9) grünen und gelben Schlauch (unter dem Tisch) trennen
+10) gelben und roten Schlauch verbinden
+11) Spritzschutz entfernen, diesen dazu nach vorne ziehen
+12) Düse des roten Schlauchs von vorne in die Schlauchenden der Behälter einführen, beginnend bei Behälter 1 (rechts)
+13) Behälter 1 aktivieren
+14) warten, bis Behälter 1 komplett leer ist
+15) Vorgang 12-14 für Behälter 2-8 wiederholen, danach Stop drücken
+16) Behälter entleeren und offen lassen
+17) Auffangbecken ausleeren
+
+1. Tequila
+2. Vodka
+3. Gin
+4. Rum
+5. Limetten-/Zitronensaft
+6. Orangensaft
+7. Ananassaft
+8. Tonic Water
+
